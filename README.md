@@ -45,10 +45,6 @@ The Coral Reef Evaluation and Monitoring Project (CREMP) Analysis is a comprehen
   * Trained on 24‑month look‑back windows for four benthic groups.
   * Achieved RMSEs of 0.043–0.064 and MAPE of 35–66% across targets.
 
-* **Prophet Forecasts**:
-
-  * Monthly forecasts of percent cover for stony coral, macroalgae, octocoral, and porifera.
-  * Uncertainty bands within ±15% of mean cover.
 
 ## Recommendations
 
