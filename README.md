@@ -1,6 +1,14 @@
 ## Project Overview
 
 The Coral Reef Evaluation and Monitoring Project (CREMP) Analysis is a comprehensive investigation of long‑term reef health trends in the Florida Keys National Marine Sanctuary. By integrating CREMP biological surveys (1996–2023) with environmental metrics (water quality, temperature, air pollution), this work characterizes spatial and temporal dynamics of stony corals, octocorals, and associated benthic communities, and builds predictive models to inform conservation strategies.
+- [My analysis notebook 📓](https://drive.google.com/file/d/1rKanRwJJfMnNFy26PRMGFqi_L3N3v6ia/view?usp=sharing)
+
+## Data & Methods
+
+* **Data Sources**: CREMP surveys, NOAA disturbance monitoring, EPA water quality, state/federal air pollution stations.
+* **Statistical Analyses**: Shapiro–Wilk, Levene’s, ANOVA, Kruskal–Wallis, Pearson/Spearman correlations, GLMs (Poisson, Negative Binomial).
+* **Spatial Analysis**: Ripley’s K‑Function to quantify clustering at multiple scales.
+* **Modeling Tools**: Python (pandas, scikit‑learn, TensorFlow/Keras, Prophet).
 
 ## Objectives
 
@@ -50,13 +58,6 @@ The Coral Reef Evaluation and Monitoring Project (CREMP) Analysis is a comprehen
 4. **Integrate Forecasts**: Use annual model updates in adaptive management cycles.
 5. **Restore Structural Diversity**: Focus on canopy‑forming species in nursery and outplanting programs.
 6. **Secure Funding & Collaboration**: Establish multi‑agency partnerships and environmental trust funds.
-
-## Data & Methods
-
-* **Data Sources**: CREMP surveys, NOAA disturbance monitoring, EPA water quality, state/federal air pollution stations.
-* **Statistical Analyses**: Shapiro–Wilk, Levene’s, ANOVA, Kruskal–Wallis, Pearson/Spearman correlations, GLMs (Poisson, Negative Binomial).
-* **Spatial Analysis**: Ripley’s K‑Function to quantify clustering at multiple scales.
-* **Modeling Tools**: Python (pandas, scikit‑learn, TensorFlow/Keras, Prophet).
 
 
 ## License
